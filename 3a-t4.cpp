@@ -13,3 +13,4 @@ sum_k += number; i++;
 cout << " The total sum of " << k << " integers is: "  << sum_k;
 return 0;
 }
+git merge check-for-zero
